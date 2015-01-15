@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="150dp"
-        android:text="@string/hello_Github"
+        android:text="@string/hello_GITHUB"
         android:textSize="@dimen/abc_text_size_title_material_toolbar" />
 
 </RelativeLayout>
